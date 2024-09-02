@@ -78,17 +78,17 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <img src="https://raw.githubusercontent.com/Pashyaaaa/Pashyaaaa/output/snake.svg" alt="Snake animation" />
 
-<div align="left">
-## 💫 Status:
-👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact<br>🔎Open Hire<br>🎧Kpop
+<div style="display:flex;">
+  <div>
+  ## 💫 Status:
+  👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact<br>🔎Open Hire<br>🎧Kpop
+  </div>
+  
+  <div>
+  ### ✍️ Random Dev Quote
+  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+  </div>
 </div>
-
-<div align="right">
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-</div>
-
-<div clear="both">
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Pashyaaaa&icon=0&color=8)](https://visitcount.itsvg.in)
