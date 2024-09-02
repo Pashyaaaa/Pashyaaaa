@@ -24,8 +24,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
   <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge" height="30" alt="express logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
@@ -55,8 +53,6 @@
   <img src="https://cdn.simpleicons.org/canva/00C4CC" height="30" alt="canva logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/discord/5865F2" height="30" alt="discord logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=django" height="30" alt="django logo"  />
 </div>
 
 ###
@@ -82,11 +78,17 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <img src="https://raw.githubusercontent.com/Pashyaaaa/Pashyaaaa/output/snake.svg" alt="Snake animation" />
 
+<div align="left">
 ## 💫 Status:
 👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact<br>🔎Open Hire<br>🎧Kpop
+</div>
 
+<div align="right">
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+</div>
+
+<div clear="both">
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Pashyaaaa&icon=0&color=8)](https://visitcount.itsvg.in)
