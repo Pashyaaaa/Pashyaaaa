@@ -1,10 +1,10 @@
-<h2 align="center">Hi 👋! My name is Vian and I'm a Fullstack Developer💻 from Bangkalan Indonesia🏡</h2>
+# Hi 👋! My name is Vian and I'm a Fullstack Developer💻
 
 ###
 
 <div align="left">
-  <img src="https://streak-stats.demolab.com?user=Pashyaaaa&locale=en&mode=daily&theme=onedark&hide_border=false&border_radius=5" height="153" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Pashyaaaa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=onedark&hide_border=false" height="154" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=Pashyaaaa&locale=en&mode=daily&theme=onedark&hide_border=false&border_radius=5" height="183" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Pashyaaaa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=onedark&hide_border=false" height="184" alt="languages graph"  />
 </div>
 
 ###
@@ -79,7 +79,10 @@
 
 <br clear="both">
 
-# 💫 Status:
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img src="https://raw.githubusercontent.com/Pashyaaaa/Pashyaaaa/output/snake.svg" alt="Snake animation" />
+
+## 💫 Status:
 👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact<br>🔎Open Hire<br>🎧Kpop
 
 ### ✍️ Random Dev Quote
@@ -90,10 +93,5 @@
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/vyanz) 
-
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-<img src="https://raw.githubusercontent.com/Pashyaaaa/Pashyaaaa/output/snake.svg" alt="Snake animation" />
 
 ###
