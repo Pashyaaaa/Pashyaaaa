@@ -1,4 +1,4 @@
-<h2 align="right">Hi 👋! My name is Vian<br>and I'm a Fullstack Developer💻<br>from Bangkalan Indonesia🏡</h2>
+<h2 align="right">Hi 👋! My name is Vian and I'm a Fullstack Developer💻<br>from Bangkalan Indonesia🏡</h2>
 
 ###
 
