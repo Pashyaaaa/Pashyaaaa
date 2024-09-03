@@ -1,4 +1,4 @@
-# Hi!🙌 My name is Vian and I'm a Fullstack Developer💻
+# Hi!👋 My name is Vian and I'm a Fullstack Developer💻
 
 ###
 
