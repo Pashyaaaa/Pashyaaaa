@@ -1,5 +1,5 @@
-<div align=center>
-# Hi!👋 My name is Vian and I'm a Fullstack Developer💻
+<div align=center style="font-size:50px">
+Hi!👋 My name is Vian and I'm a Fullstack Developer💻
 </div>
 
 ###
