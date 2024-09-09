@@ -1,6 +1,20 @@
-<div align=center>
-Hi!👋 My name is Vian and I'm a Fullstack Developer💻
-</div>
+<head>
+    <p>
+        <h1 style="text-align: center;" align="center">
+            <strong>
+                Hi!👋 My name is Vian and I'm a Fullstack Developer💻
+                <hr>
+            </strong>
+        </h1>
+    </p>
+    <p align="center" style="text-align: center; font-weight: bold;">
+        <strong>
+            You can call me Vian.<br>
+            I'm a Fullstack Web Developer.<br>
+        </strong>
+    </p>
+    <br>
+</head>
 
 ###
 
