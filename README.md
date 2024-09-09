@@ -1,5 +1,5 @@
 <h1 align="right">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm <a href="/" style="color:#00ff80;text-decoration: none;"><span>Octavian Pashya Ramadhan</span></a></h1>
-<h4 align="center">You can call me <span style="color:#00ff80;">Vian</span>, I'm Fullstack Developer💻</h4>
+<h4 align="center">You can call me <span style="color:#00ff00;">Vian</span>, I'm Fullstack Developer💻</h4>
 
 <br>
 
