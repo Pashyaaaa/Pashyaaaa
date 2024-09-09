@@ -1,11 +1,10 @@
 <h1 align="right">Hi <img src="https://media.tenor.com/InfbZnZgATIAAAAi/hand-gif.gif" width="29px">, I'm <span style="color:#00ff00">Octavian Pashya Ramadhan</span></h1>
 <h4 align="right">You can call me <span style="color:#00ff00;">Vian</span>, I'm Fullstack Developer💻</h4>
-
-<br>
-
 <p>
  <a href="https://github.com/Pashyaaaa"><img src="https://img.shields.io/github/followers/Pashyaaaa?label=followers&style=social"/></a>
 </p>
+
+<br>
 
 [![](https://visitcount.itsvg.in/api?id=Pashyaaaa&icon=0&color=8)](https://visitcount.itsvg.in)
 
