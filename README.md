@@ -1,4 +1,4 @@
-<h1 align="right">Hi <img src="https://tenor.com/blOVi.gif" width="29px">, I'm <span style="color:#00ff00">Octavian Pashya Ramadhan</span></h1>
+<h1 align="right">Hi <img src="https://tenor.com/id/view/hand-gif-gif-27040745" width="29px">, I'm <span style="color:#00ff00">Octavian Pashya Ramadhan</span></h1>
 <h4 align="right">You can call me <span style="color:#00ff00;">Vian</span>, I'm Fullstack Developer💻</h4>
 
 <br>
