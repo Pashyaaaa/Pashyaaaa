@@ -1,10 +1,5 @@
-<h1 align="right">Hi <img src="https://media.tenor.com/InfbZnZgATIAAAAi/hand-gif.gif" width="29px">, I'm <span style="color:#00ff00">Octavian Pashya Ramadhan</span></h1>
+<h1>Hi <img src="https://media.tenor.com/InfbZnZgATIAAAAi/hand-gif.gif" width="29px">, I'm <span style="color:#00ff00">Octavian Pashya Ramadhan</span></h1>
 <h4 align="right">You can call me <span style="color:#00ff00;">Vian</span>, I'm Fullstack Developer💻</h4>
-<p align="right">
- <a href="https://github.com/Pashyaaaa"><img src="https://img.shields.io/github/followers/Pashyaaaa?label=followers&style=social"/></a>
-</p>
-
----
 
 [![](https://visitcount.itsvg.in/api?id=Pashyaaaa&icon=0&color=8)](https://visitcount.itsvg.in)
 
@@ -93,6 +88,10 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
+
+<p align="right">
+ <a href="https://github.com/Pashyaaaa"><img src="https://img.shields.io/github/followers/Pashyaaaa?label=followers&style=social"/></a>
+</p>
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://saweria.com/Vyanz) 
