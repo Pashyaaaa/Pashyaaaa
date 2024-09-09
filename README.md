@@ -1,14 +1,9 @@
-<head>
-    <p>
-        <h1 style="text-align: center;" align="center">
-            <strong>
-                Hi!👋 My name is Vian and I'm a Fullstack Developer💻
-                <hr>
-            </strong>
-        </h1>
-    </p>
-</head>
+<h1 align="right" style="color:#00ff80;"><span>Hi</span> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"><span style="color:#ffffff;">, I'm </span><a href="/" style="color:#00ff80;text-decoration: none;"><span>Octavian Pashya Ramadhan</span></a></h1>
+<h4 align="center">Fullstack Developer<a href="/">|</a> Web Specialist
 
+<p>
+ <a href="https://github.com/Pashyaaaa"><img src="https://img.shields.io/github/followers/Pashyaaaa?label=followers&style=social"/></a>
+</p>
 [![](https://visitcount.itsvg.in/api?id=Pashyaaaa&icon=0&color=8)](https://visitcount.itsvg.in)
 
 ###
