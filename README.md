@@ -7,10 +7,12 @@
 
 
 ###
+![](https://nirzak-streak-stats.vercel.app/?user=Pashyaaaa&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pashyaaaa&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 <div align="left">
 <!--   <img src="https://streak-stats.demolab.com?user=Pashyaaaa&locale=en&mode=daily&theme=onedark&hide_border=true&border_radius=5" height="185" alt="streak graph"  /> -->
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Pashyaaaa&theme=dark&hide_border=true&locale=id" alt="GitHub Streak" /></a>
+<!--   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Pashyaaaa&theme=dark&hide_border=true&locale=id" alt="GitHub Streak" /></a> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Pashyaaaa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=onedark&hide_border=false" height="185" alt="languages graph"  />
 </div>
 
