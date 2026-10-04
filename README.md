@@ -18,7 +18,6 @@
 <div align="left">
  4
  4
- 2
 </div>
 
 ###
